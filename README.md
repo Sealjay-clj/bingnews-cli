@@ -2,7 +2,7 @@
 
 This CLI is written in Python to provide an interactive prompt to search for interesting articles that could be used to post to Twitter, or for resarch purposes.
 
-The aim is to demonstrate the use of the Bing News Search API.
+The aim is to demonstrate the use of the Bing News Search API - for more information, [please read the related blog post](https://sealjay.com/bing-news-search-cli/).
 
 ## Software Installation
 
