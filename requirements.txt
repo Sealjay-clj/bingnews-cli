@@ -1,0 +1,6 @@
+click
+tabulate
+python-dotenv
+requests
+pyshorteners
+requests-cache
